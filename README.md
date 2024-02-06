@@ -1,5 +1,11 @@
 # I Wall coming back soon. TM? Ready
 
+## Programming skills
+
+### I can use any language if it makes sense. but except assembly language or something like that.
+
+### However, it can be viewed according to the trend I created or community, public project or work.
+
 CID: f83968f1-11b3-4714-b67e-44072f4d4caf
 
 <!-- Phawat, Phawat Sorratat, Phawat63915, Phawat Total, phwt, phwtt
