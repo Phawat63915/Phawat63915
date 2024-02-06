@@ -2,9 +2,9 @@
 
 ## Programming skills
 
-### I can use any language if it makes sense. but except assembly language or something like that.
+<h3> I can use any language if it makes sense.</h3> <h4>but except assembly language or something like that.</h4>
 
-### However, it can be viewed according to the trend I created or community, public project or work.
+<h3>However, it can be viewed according to the trend I created or community, public project or work.</h3>
 
 CID: f83968f1-11b3-4714-b67e-44072f4d4caf
 
