@@ -2,7 +2,7 @@
 
 ## Programming skills
 
-<h3> I can use any language if it makes sense.</h3> <h4>but except assembly language or something like that.</h4>
+<h3> I can use any language if it makes sense.</h3> <h4>but except assembly language or something like that. umm pcb bord use yes i can>,<</h4>
 
 <h3>However, it can be viewed according to the trend I created or community, public project or work.</h3>
 
