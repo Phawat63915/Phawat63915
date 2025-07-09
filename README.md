@@ -1,11 +1,3 @@
-# I Wall coming back soon. TM? Ready
-
-## Programming skills
-
-<h3> I can use any language if it makes sense.</h3> <h4>but except assembly language or something like that. umm pcb bord use yes i can>,<</h4>
-
-<h3>However, it can be viewed according to the trend I created or community, public project or work.</h3>
-
 CID: f83968f1-11b3-4714-b67e-44072f4d4caf
 
 <!-- Phawat, Phawat Sorratat, Phawat63915, Phawat Total, phwt, phwtt
